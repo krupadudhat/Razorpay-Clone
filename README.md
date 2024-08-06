@@ -1,3 +1,5 @@
+# Razorpay Clone
+This repository contains a clone of the Razorpay payment gateway, built for educational and demonstrative purposes. The project aims to replicate key functionalities of Razorpay, providing insights into how payment gateways operate and can be implemented.
 # Features
 User Authentication: Secure user login and registration.
 Payment Processing: Integration with dummy payment processor to simulate transactions.
